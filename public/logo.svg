@@ -1,0 +1,7 @@
+<svg width="1120" height="400" viewBox="0 0 1120 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1120" height="400" rx="20" fill="#0B4F73"/>
+  <text x="42" y="218" font-family="Arial, Helvetica, sans-serif" font-size="160" font-weight="700" letter-spacing="-8" fill="#FAFAF7">Innovative</text>
+  <text x="205" y="304" font-family="Arial, Helvetica, sans-serif" font-size="48" letter-spacing="26" fill="#FAFAF7">CLEANING</text>
+  <circle cx="1010" cy="224" r="62" stroke="#FAFAF7" stroke-width="22"/>
+  <path d="M1010 162A62 62 0 0 1 1010 286" stroke="#F58A44" stroke-width="22" stroke-linecap="round"/>
+</svg>
