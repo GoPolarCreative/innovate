@@ -64,9 +64,9 @@ img { display: block; max-width: 100%; }
 
 .brand { display: block; line-height: 0; }
 
-.brand-logo { width: 156px; height: auto; border-radius: 3px; }
+.brand-logo { width: 180px; height: auto; }
 
-.footer-brand .brand-logo { width: 190px; }
+.footer-brand .brand-logo { width: 220px; }
 
 .main-nav {
   display: flex; align-items: center; gap: 2.5rem;
@@ -542,7 +542,6 @@ img { display: block; max-width: 100%; }
 }
 
 .footer-brand { margin-bottom: 2rem; }
-.footer-brand .brand-logo { border: 1px solid rgba(245, 138, 68, 0.2); }
 
 .footer-contact {
   display: flex; gap: 2rem; margin-bottom: 2.5rem; flex-wrap: wrap;
